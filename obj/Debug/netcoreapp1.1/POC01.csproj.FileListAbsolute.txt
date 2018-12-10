@@ -1,0 +1,12 @@
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/bin/Debug/netcoreapp1.1/POC01.deps.json
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/bin/Debug/netcoreapp1.1/POC01.runtimeconfig.json
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/bin/Debug/netcoreapp1.1/POC01.runtimeconfig.dev.json
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/bin/Debug/netcoreapp1.1/POC01.dll
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/bin/Debug/netcoreapp1.1/POC01.pdb
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/obj/Debug/netcoreapp1.1/POC01.csprojResolveAssemblyReference.cache
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/obj/Debug/netcoreapp1.1/POC01.csproj.CoreCompileInputs.cache
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/obj/Debug/netcoreapp1.1/POC01.AssemblyInfoInputs.cache
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/obj/Debug/netcoreapp1.1/POC01.AssemblyInfo.cs
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/obj/Debug/netcoreapp1.1/POC01.dll
+/Users/jorge.fernandez/Desktop/Restful Web API - NET CORE 1.1/POC01/obj/Debug/netcoreapp1.1/POC01.pdb
